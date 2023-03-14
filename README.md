@@ -30,4 +30,5 @@
   <a href="https://www.linkedin.com/in/daniel-felipe-bueno-25320a263" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  ![Snake animation](https://github.com/dev-dfbueno/dev-dfbueno/blob/output/github-contribution-grid-snake.svg)
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+<div class="animate__animated animate__bounce">Hello, world!</div>

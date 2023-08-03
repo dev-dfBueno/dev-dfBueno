@@ -1,7 +1,7 @@
 ### Olá!
 Me chamo Daniel Bueno, sou um desenvolvedor apaixonado por tecnologia e tudo que envolve o universo da informática. Além disso, tenho uma grande paixão pela fotografia, que me permite expressar minha criatividade e registrar momentos especiais.
 
-Sou o orgulhoso proprietário da Firewolfs Esports, uma organização de eSports que tem como objetivo reunir jogadores talentosos e criar uma comunidade unida em torno de jogos eletrônicos. Também sou dono da Capri Produções, uma empresa de produção audiovisual que se dedica a criar conteúdos únicos e inovadores.
+Sou o orgulhoso proprietário da NordWolf E-Sports, uma organização de eSports que tem como objetivo reunir jogadores talentosos e criar uma comunidade unida em torno de jogos eletrônicos. Também sou dono da Capri Produções, uma empresa de produção audiovisual que se dedica a criar conteúdos únicos e inovadores.
 
 Atualmente moro em Curitiba - PR e tenho 25 anos de idade. Estou sempre em busca de novos desafios e oportunidades de crescimento, e espero poder contribuir para tornar o mundo um lugar melhor por meio da tecnologia e da arte.
 

@@ -6,7 +6,7 @@ Sou o orgulhoso proprietário da NordWolf E-Sports, uma organização de eSports
 Atualmente moro em Curitiba - PR e tenho 25 anos de idade. Estou sempre em busca de novos desafios e oportunidades de crescimento, e espero poder contribuir para tornar o mundo um lugar melhor por meio da tecnologia e da arte.
 
 - 🔭 Hoje trabalho com FullStack
-- 🌱 Estudando JS | HTML | CSS | PHP | Kotlin
+- 🌱 Estudando JS | HTML | CSS | PHP | Flutter
 - 😄 Pronomes: Ele/Dele
 
 <div>

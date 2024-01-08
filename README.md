@@ -24,7 +24,7 @@ Atualmente moro em Curitiba - PR e tenho 25 anos de idade. Estou sempre em busca
   <img align="center" alt="Bueno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bueno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Bueno-pic" height="150" style="border-radius:50px;" src="https://www.shoppingdosarmarinhos.com.br/imagem_2023-03-14_155415244.png">
-    <img align="center" alt="Bueno-gif" height="100" width="100" src="https://camo.githubusercontent.com/ea09d843e584c4c4365baf0f1b8e691a36e7355536170ea93d45ca58308e507a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d6461726b2e676966">
+    <img align="center" alt="Bueno-gif" height="100" width="100" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
 </div>
   
   ##

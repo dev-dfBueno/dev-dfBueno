@@ -23,7 +23,7 @@ Atualmente moro em Curitiba - PR e tenho 25 anos de idade. Estou sempre em busca
   <img align="center" alt="Bueno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bueno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bueno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Bueno-pic" height="150" style="border-radius:50px;" src="https://www.shoppingdosarmarinhos.com.br/imagem_2023-03-14_155415244.png">
+  <img align="right" alt="Bueno-pic" height="150" style="border-radius:50px;" src="https://scontent.cdninstagram.com/v/t51.29350-15/302772612_470444558083223_2182327524711937295_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzY0eDEzNjQuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_ohc=XGxhFazEO7oAX8bp_PM&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MjkxODEzOTU3NzUxOTQxNjA2Nw%3D%3D.2-ccb7-5&oh=00_AfDZbS6SkKNmY5J10lovMFjVB_OzB-IKK3NxVhcyCGfz0A&oe=66018AD2&_nc_sid=10d13b">
     <img align="center" alt="Bueno-gif" height="100" width="100" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
 </div>
   

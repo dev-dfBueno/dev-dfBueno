@@ -1,13 +1,13 @@
 ### Olá!
-Me chamo Daniel Bueno, sou um desenvolvedor apaixonado por tecnologia e tudo que envolve o universo da informática. Além disso, tenho uma grande paixão pela fotografia, que me permite expressar minha criatividade e registrar momentos especiais.
+Me chamo Daniel Bueno, sou um desenvolvedor apaixonado por tecnologia e tudo que envolve o universo da informática. Tenho também uma grande paixão pela fotografia, que me permite expressar minha criatividade e registrar momentos especiais.
 
-Sou o orgulhoso proprietário da NordWolf E-Sports, uma organização de eSports que tem como objetivo reunir jogadores talentosos e criar uma comunidade unida em torno de jogos eletrônicos. Também sou dono da Capri Produções, uma empresa de produção audiovisual que se dedica a criar conteúdos únicos e inovadores.
+Atualmente, sou um dos proprietários da SafeWay, uma empresa dedicada a criar soluções inovadoras no mercado. Além disso, sou proprietário da Capri Produções, uma empresa especializada na criação de conteúdos audiovisuais únicos e criativos.
 
-Atualmente moro em Curitiba - PR e tenho 25 anos de idade. Estou sempre em busca de novos desafios e oportunidades de crescimento, e espero poder contribuir para tornar o mundo um lugar melhor por meio da tecnologia e da arte.
+Moro em Curitiba - PR, tenho 27 anos e estou sempre em busca de novos desafios e oportunidades para crescer. Acredito no poder da tecnologia e da arte para transformar o mundo e melhorar a vida das pessoas.
 
-- 🔭 Hoje trabalho com FullStack
-- 🌱 Estudando JS | HTML | CSS | PHP | Flutter | Python
-- 😄 Pronomes: Ele/Dele
+🔭 Hoje trabalho como FullStack Developer
+🌱 Estudando JS, HTML, CSS, PHP, Flutter, Python
+😄 Pronomes: Ele/Dele
 
 <div>
   <a href="https://beacons.ai/dev-dfbueno"> 
